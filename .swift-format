@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "indentation": {
+    "spaces": 4
+  },
+  "lineLength": 110,
+  "spacesBeforeEndOfLineComments": 3,
+  "rules": {
+    "AlwaysUseLiteralForEmptyCollectionInit": true,
+    "AmbiguousTrailingClosureOverload": true,
+    "NoEmptyLinesOpeningClosingBraces": true,
+    "UseEarlyExits": true
+  }
+}
